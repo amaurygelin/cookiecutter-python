@@ -34,3 +34,6 @@ line-length = 100
 
 [tool.isort]
 profile = "hug"
+
+[tool.cruft]
+skip = ["README.md", "tests"]
