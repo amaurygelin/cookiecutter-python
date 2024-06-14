@@ -16,3 +16,6 @@ _________________
 _________________
 
 **{{cookiecutter.project_name}}** {{cookiecutter.description}}
+
+This is a little modification on the template of project **{{cookiecutter.project_name}}**.
+Just to be sure that cruft update works on target repos.
