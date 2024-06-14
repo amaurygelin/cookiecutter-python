@@ -21,3 +21,5 @@ This is a little modification on the template of project **{{cookiecutter.projec
 Just to be sure that cruft update works on target repos.
 
 This is another modif to test the skip feature of cruft update.
+
+Another modification to check the option --skip of cruft create, which has modified the cruft.json and which should ignore this modification for cruft updates on the corresponding repo created by this cruft create.
