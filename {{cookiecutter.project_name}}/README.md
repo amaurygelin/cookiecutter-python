@@ -19,3 +19,5 @@ _________________
 
 This is a little modification on the template of project **{{cookiecutter.project_name}}**.
 Just to be sure that cruft update works on target repos.
+
+This is another modif to test the skip feature of cruft update.
