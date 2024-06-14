@@ -27,3 +27,5 @@ Another modification to check the option --skip of cruft create, which has modif
 Another try
 
 Another try with an update in this file + in "tests" folder
+
+Last test

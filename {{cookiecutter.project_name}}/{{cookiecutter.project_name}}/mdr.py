@@ -1,0 +1,1 @@
+# To try the skip on cookiecutter variable (folder)
