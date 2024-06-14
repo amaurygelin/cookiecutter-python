@@ -36,4 +36,4 @@ line-length = 100
 profile = "hug"
 
 [tool.cruft]
-skip = ["README.md", "tests"]
+skip = ["README.md", "tests", "{{cookiecutter.project_name}}"]
